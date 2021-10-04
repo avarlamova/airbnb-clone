@@ -42,3 +42,11 @@
   width: 15vw;
   margin-right: 80px;
 }
+
+.header--text > button {
+  background-color: aqua;
+}
+
+.header--text > button :hover {
+  cursor: pointer;
+}
